@@ -1,0 +1,7 @@
+{
+  "frontend": "angular",
+  "backend": "nestjs",
+  "database": "mongodb",
+  "ui": "daisyui",
+  "css": "tailwind"
+}
