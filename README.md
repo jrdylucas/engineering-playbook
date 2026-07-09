@@ -1,4 +1,4 @@
-# Basic Opninitiated Playbook for AI Assisted Full Stack Projects
+# Basic Opinionated Playbook for AI Assisted Full Stack Projects (BOPAAFSP)
 
 > An opinionated, AI-first starter template for building modern full-stack applications with consistent architecture, development workflows, and engineering standards.
 
