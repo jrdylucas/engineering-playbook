@@ -52,10 +52,10 @@ This template is built around a few core principles.
 All engineering standards are located inside the `.engineering` directory.
 
 ```text
+README.md
 .engineering/
 
-README.md
-stack.md
+tech-stack.md
 architecture.md
 setup.md
 recipes.md
@@ -94,7 +94,7 @@ When present, it should be treated as the source of truth for the current projec
 
 When working on this project, AI assistants should follow this process:
 
-1. Read `.engineering/README.md`.
+1. Read `README.md`.
 2. Read all referenced engineering documents.
 3. Read `project.template.json`.
 4. Follow the defined engineering standards.
