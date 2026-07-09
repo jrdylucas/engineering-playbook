@@ -49,7 +49,7 @@ This template is built around a few core principles.
 
 # Engineering Standards
 
-All engineering standards are located inside the `.engineering` directory.
+All engineering standards are located inside the `.engineering` directory, the `README.md` is in the root.
 
 ```text
 README.md
