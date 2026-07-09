@@ -16,7 +16,7 @@ After setup, the project should be immediately ready for development.
 
 # Default Stack
 
-Use the technologies defined in `stack.md`.
+Use the technologies defined in `tech-stack.md`.
 
 If a `project.template.json` exists, its configuration overrides the defaults.
 
